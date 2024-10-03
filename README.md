@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **33110293_INFO_SIMULACION_CLINICA**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/33110293_INFO_SIMULACION_CLINICA/](https://ecored-sena.github.io/33110293_INFO_SIMULACION_CLINICA/)
 
 #
